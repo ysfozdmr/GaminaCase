@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5658738449150702425}
   - component: {fileID: 6019570231753901907}
   - component: {fileID: 1289402028939191563}
-  - component: {fileID: 4204611128575122953}
+  - component: {fileID: 3665535729203890991}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -29,6 +29,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.92387956, w: 0.38268346}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 34
@@ -52,6 +53,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -82,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4204611128575122953
+--- !u!64 &3665535729203890991
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -107,7 +109,7 @@ GameObject:
   - component: {fileID: 2839270901409613591}
   - component: {fileID: 8626529609042067320}
   - component: {fileID: 3775097575371626399}
-  - component: {fileID: 7754930725931093209}
+  - component: {fileID: 845662464013586660}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -125,6 +127,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.19509031, w: -0.9807853}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 41
@@ -148,6 +151,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -178,7 +182,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &7754930725931093209
+--- !u!64 &845662464013586660
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -203,7 +207,7 @@ GameObject:
   - component: {fileID: 2397858817956597147}
   - component: {fileID: 2565604905358928687}
   - component: {fileID: 3268773258008174657}
-  - component: {fileID: 2956960757706735720}
+  - component: {fileID: 1112186885697645601}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -221,6 +225,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.19509034, w: 0.9807853}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 15
@@ -244,6 +249,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -274,7 +280,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2956960757706735720
+--- !u!64 &1112186885697645601
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -299,7 +305,7 @@ GameObject:
   - component: {fileID: 5053999924463210390}
   - component: {fileID: 6569984120296242076}
   - component: {fileID: 1819571709323598276}
-  - component: {fileID: 3674177599759459014}
+  - component: {fileID: 3990431371404393962}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -317,6 +323,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.92387956, w: 0.38268346}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 18
@@ -340,6 +347,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -370,7 +378,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &3674177599759459014
+--- !u!64 &3990431371404393962
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,7 +403,7 @@ GameObject:
   - component: {fileID: 3018094993397297492}
   - component: {fileID: 3116023191947499488}
   - component: {fileID: 2736369369391848590}
-  - component: {fileID: 2426796574343609511}
+  - component: {fileID: 2802210731231459636}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -413,6 +421,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.19509034, w: 0.9807853}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 29
@@ -436,6 +445,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -466,7 +476,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2426796574343609511
+--- !u!64 &2802210731231459636
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -491,7 +501,7 @@ GameObject:
   - component: {fileID: 2987981129503350563}
   - component: {fileID: 5780149043571141419}
   - component: {fileID: 8987814977960158707}
-  - component: {fileID: 7034729001760514551}
+  - component: {fileID: 511538637992959404}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -509,6 +519,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.3826835, w: -0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 12
@@ -532,6 +543,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -562,7 +574,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &7034729001760514551
+--- !u!64 &511538637992959404
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -587,7 +599,7 @@ GameObject:
   - component: {fileID: 3441760924751133656}
   - component: {fileID: 9156693791868224439}
   - component: {fileID: 4379572217268480848}
-  - component: {fileID: 7150457183612792854}
+  - component: {fileID: 5685427813858501073}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -605,6 +617,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.19509031, w: -0.9807853}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 27
@@ -628,6 +641,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -658,7 +672,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &7150457183612792854
+--- !u!64 &5685427813858501073
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -683,7 +697,7 @@ GameObject:
   - component: {fileID: 1112672603287213915}
   - component: {fileID: 1496663929685807829}
   - component: {fileID: 7714501039929283496}
-  - component: {fileID: 9178707848562184986}
+  - component: {fileID: 493667744086175461}
   m_Layer: 0
   m_Name: Blocker
   m_TagString: Untagged
@@ -701,6 +715,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0.17364816, w: 0.9848078}
   m_LocalPosition: {x: -0.584, y: 1.87, z: 0}
   m_LocalScale: {x: 1, y: 1.2, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 42
@@ -724,6 +739,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -754,7 +770,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &9178707848562184986
+--- !u!65 &493667744086175461
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -765,8 +781,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.34999996, y: 0.99999994, z: 2}
-  m_Center: {x: 0, y: 0.49999997, z: 0}
+  m_Size: {x: 0.34999996, y: 1, z: 2}
+  m_Center: {x: 0, y: 0.5, z: 0}
 --- !u!1 &1182435894194794096
 GameObject:
   m_ObjectHideFlags: 0
@@ -778,7 +794,7 @@ GameObject:
   - component: {fileID: 3930991076022186123}
   - component: {fileID: 5750507805967205507}
   - component: {fileID: 7152275402979166811}
-  - component: {fileID: 9104798841567481439}
+  - component: {fileID: 1453519740271569082}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -796,6 +812,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.3826835, w: -0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 40
@@ -819,6 +836,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -849,7 +867,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &9104798841567481439
+--- !u!64 &1453519740271569082
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -874,7 +892,7 @@ GameObject:
   - component: {fileID: 3898063287002259196}
   - component: {fileID: 3802313633308784712}
   - component: {fileID: 4180281629623333670}
-  - component: {fileID: 4492173707048178447}
+  - component: {fileID: 8457954041777032741}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -892,6 +910,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.19509034, w: 0.9807853}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 1
@@ -915,6 +934,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -945,7 +965,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4492173707048178447
+--- !u!64 &8457954041777032741
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -970,7 +990,7 @@ GameObject:
   - component: {fileID: 4079631622566701247}
   - component: {fileID: 7515743027634180304}
   - component: {fileID: 3141552873605740599}
-  - component: {fileID: 8387341773293544305}
+  - component: {fileID: 3388981104216454003}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -988,6 +1008,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.19509031, w: -0.9807853}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 13
@@ -1011,6 +1032,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1041,7 +1063,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8387341773293544305
+--- !u!64 &3388981104216454003
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1066,7 +1088,7 @@ GameObject:
   - component: {fileID: 4479152031416421444}
   - component: {fileID: 5145752788672362572}
   - component: {fileID: 7774750150204176020}
-  - component: {fileID: 8574348785114116752}
+  - component: {fileID: 2679858758512826205}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -1084,6 +1106,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.3826835, w: -0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 26
@@ -1107,6 +1130,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1137,7 +1161,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8574348785114116752
+--- !u!64 &2679858758512826205
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1162,7 +1186,7 @@ GameObject:
   - component: {fileID: 5871917850350755057}
   - component: {fileID: 5508766235642521851}
   - component: {fileID: 1017319696107621027}
-  - component: {fileID: 2712038908115923361}
+  - component: {fileID: 1430684244618358167}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -1180,6 +1204,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.92387956, w: 0.38268346}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 6
@@ -1203,6 +1228,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1233,7 +1259,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2712038908115923361
+--- !u!64 &1430684244618358167
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1258,7 +1284,7 @@ GameObject:
   - component: {fileID: 8519176201766322610}
   - component: {fileID: 3786439939284684381}
   - component: {fileID: 2268475071872880515}
-  - component: {fileID: 5588680343943928931}
+  - component: {fileID: 4894755562823332527}
   m_Layer: 0
   m_Name: Blocker (1)
   m_TagString: Untagged
@@ -1276,6 +1302,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0, z: 0.55193704, w: -0.8338858}
   m_LocalPosition: {x: 3.092, y: 1.469, z: 0}
   m_LocalScale: {x: 1, y: 1.2, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 43
@@ -1299,6 +1326,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1329,7 +1357,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &5588680343943928931
+--- !u!65 &4894755562823332527
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1340,8 +1368,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.35, y: 0.9999999, z: 2}
-  m_Center: {x: 0, y: 0.49999994, z: 0}
+  m_Size: {x: 0.35, y: 1, z: 2}
+  m_Center: {x: 0, y: 0.5, z: 0}
 --- !u!1 &2534923835073888858
 GameObject:
   m_ObjectHideFlags: 0
@@ -1353,7 +1381,7 @@ GameObject:
   - component: {fileID: 2518483989706493980}
   - component: {fileID: 7199598752744541723}
   - component: {fileID: 7771325625275948585}
-  - component: {fileID: 2876204040891320163}
+  - component: {fileID: 2823275664092979458}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -1371,6 +1399,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.9807853, w: 0.19509037}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 35
@@ -1394,6 +1423,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1424,7 +1454,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2876204040891320163
+--- !u!64 &2823275664092979458
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1449,7 +1479,7 @@ GameObject:
   - component: {fileID: 3051181447323135187}
   - component: {fileID: 7732283016758489812}
   - component: {fileID: 7169099484724814566}
-  - component: {fileID: 3408906961706367916}
+  - component: {fileID: 1448583465641812700}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -1467,6 +1497,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.9807853, w: 0.19509037}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 19
@@ -1490,6 +1521,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1520,7 +1552,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &3408906961706367916
+--- !u!64 &1448583465641812700
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1545,7 +1577,7 @@ GameObject:
   - component: {fileID: 6862887616938379073}
   - component: {fileID: 1101954456498855634}
   - component: {fileID: 558217460776790065}
-  - component: {fileID: 4464145558415300291}
+  - component: {fileID: 1338560493338014766}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -1563,6 +1595,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 0
@@ -1586,6 +1619,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1616,7 +1650,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4464145558415300291
+--- !u!64 &1338560493338014766
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1641,7 +1675,7 @@ GameObject:
   - component: {fileID: 4014321259831985078}
   - component: {fileID: 3024698973902516577}
   - component: {fileID: 3160277780282194186}
-  - component: {fileID: 1233011623916589920}
+  - component: {fileID: 9203797849629080328}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -1659,6 +1693,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.9807853, w: -0.19509034}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 21
@@ -1682,6 +1717,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1712,7 +1748,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1233011623916589920
+--- !u!64 &9203797849629080328
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1737,7 +1773,7 @@ GameObject:
   - component: {fileID: 4667701062887303401}
   - component: {fileID: 1202517392837816698}
   - component: {fileID: 1749069413229987737}
-  - component: {fileID: 2452502691825138027}
+  - component: {fileID: 8795545323103414142}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -1755,6 +1791,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 28
@@ -1778,6 +1815,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1808,7 +1846,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2452502691825138027
+--- !u!64 &8795545323103414142
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1833,7 +1871,7 @@ GameObject:
   - component: {fileID: 9039490140717915759}
   - component: {fileID: 3434307973096086208}
   - component: {fileID: 5453778669243306400}
-  - component: {fileID: 4803447869307856381}
+  - component: {fileID: 5253210472072738779}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -1851,6 +1889,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.92387956, w: -0.3826834}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 22
@@ -1874,6 +1913,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -1904,7 +1944,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4803447869307856381
+--- !u!64 &5253210472072738779
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1929,7 +1969,7 @@ GameObject:
   - component: {fileID: 4544467851009228665}
   - component: {fileID: 2404193451935616430}
   - component: {fileID: 2557769030345967045}
-  - component: {fileID: 1853234605687713711}
+  - component: {fileID: 3919714936051184712}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -1947,6 +1987,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.9807853, w: -0.19509034}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 37
@@ -1970,6 +2011,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2000,7 +2042,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1853234605687713711
+--- !u!64 &3919714936051184712
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2025,7 +2067,7 @@ GameObject:
   - component: {fileID: 5216166616758195238}
   - component: {fileID: 1735215950033079733}
   - component: {fileID: 1216389547732040534}
-  - component: {fileID: 3075255615559222692}
+  - component: {fileID: 2183353698198631046}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -2043,6 +2085,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 14
@@ -2066,6 +2109,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2096,7 +2140,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &3075255615559222692
+--- !u!64 &2183353698198631046
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2121,7 +2165,7 @@ GameObject:
   - component: {fileID: 4398237103178170292}
   - component: {fileID: 8939858996437279155}
   - component: {fileID: 8368697410312008065}
-  - component: {fileID: 4039881534269335755}
+  - component: {fileID: 6106786324664311740}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -2139,6 +2183,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.9807853, w: 0.19509037}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 7
@@ -2162,6 +2207,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2192,7 +2238,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4039881534269335755
+--- !u!64 &6106786324664311740
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2217,7 +2263,7 @@ GameObject:
   - component: {fileID: 7003933701228870822}
   - component: {fileID: 3872352985958589751}
   - component: {fileID: 1041772342584323155}
-  - component: {fileID: 1990331246104813626}
+  - component: {fileID: 722728578404794515}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -2235,6 +2281,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.55557024, w: 0.8314696}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 3
@@ -2258,6 +2305,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2288,7 +2336,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1990331246104813626
+--- !u!64 &722728578404794515
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2313,7 +2361,7 @@ GameObject:
   - component: {fileID: 8143135882541397814}
   - component: {fileID: 4261163723464204929}
   - component: {fileID: 5778578378066252557}
-  - component: {fileID: 5169932672055998802}
+  - component: {fileID: 46559447896611073}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -2331,6 +2379,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 1, w: -0.00000004371139}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 20
@@ -2354,6 +2403,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2384,7 +2434,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5169932672055998802
+--- !u!64 &46559447896611073
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2409,7 +2459,7 @@ GameObject:
   - component: {fileID: 6437229358662727410}
   - component: {fileID: 3232451295385169069}
   - component: {fileID: 1083321275522190490}
-  - component: {fileID: 8859828521847953140}
+  - component: {fileID: 827724770296937511}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -2427,6 +2477,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.83146966, w: -0.5555702}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 9
@@ -2450,6 +2501,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2480,7 +2532,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8859828521847953140
+--- !u!64 &827724770296937511
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2505,7 +2557,7 @@ GameObject:
   - component: {fileID: 8765887741123496953}
   - component: {fileID: 3712720159222177358}
   - component: {fileID: 6383053054792937410}
-  - component: {fileID: 5700361803361846685}
+  - component: {fileID: 5987103565973071238}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -2523,6 +2575,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 1, w: -0.00000004371139}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 36
@@ -2546,6 +2599,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2576,7 +2630,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5700361803361846685
+--- !u!64 &5987103565973071238
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2615,7 +2669,8 @@ Transform:
   m_GameObject: {fileID: 5614945353410188829}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9, y: 0.9, z: 0.9}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6862887616938379073}
   - {fileID: 3898063287002259196}
@@ -2675,7 +2730,7 @@ GameObject:
   - component: {fileID: 7375892314050815057}
   - component: {fileID: 3205689783251169766}
   - component: {fileID: 5147603794765398122}
-  - component: {fileID: 5827972740170181173}
+  - component: {fileID: 7329268902731745032}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -2693,6 +2748,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 1, w: -0.00000004371139}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 8
@@ -2716,6 +2772,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2746,7 +2803,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5827972740170181173
+--- !u!64 &7329268902731745032
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2771,7 +2828,7 @@ GameObject:
   - component: {fileID: 8533385180515643329}
   - component: {fileID: 2513862422057039440}
   - component: {fileID: 1813625080996249396}
-  - component: {fileID: 919094632974234461}
+  - component: {fileID: 5268793171479364703}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -2789,6 +2846,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.55557024, w: 0.8314696}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 17
@@ -2812,6 +2870,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2842,7 +2901,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &919094632974234461
+--- !u!64 &5268793171479364703
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2867,7 +2926,7 @@ GameObject:
   - component: {fileID: 9135593729484411662}
   - component: {fileID: 3046546651778534047}
   - component: {fileID: 1265442101077132283}
-  - component: {fileID: 316884984560766866}
+  - component: {fileID: 5040202652670782216}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -2885,6 +2944,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.55557024, w: 0.8314696}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 31
@@ -2908,6 +2968,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -2938,7 +2999,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &316884984560766866
+--- !u!64 &5040202652670782216
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2963,7 +3024,7 @@ GameObject:
   - component: {fileID: 5623858992466568597}
   - component: {fileID: 4289024814871134154}
   - component: {fileID: 1753851880553455613}
-  - component: {fileID: 7902193446877300115}
+  - component: {fileID: 6556279051630905379}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -2981,6 +3042,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.83146966, w: -0.5555702}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 23
@@ -3004,6 +3066,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3034,7 +3097,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &7902193446877300115
+--- !u!64 &6556279051630905379
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3059,7 +3122,7 @@ GameObject:
   - component: {fileID: 2536159046682968182}
   - component: {fileID: 2490217582436658407}
   - component: {fileID: 9093137628046133999}
-  - component: {fileID: 6763305602599089989}
+  - component: {fileID: 2740929196003926758}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -3077,6 +3140,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.5555702, w: -0.83146966}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 25
@@ -3100,6 +3164,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3130,7 +3195,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6763305602599089989
+--- !u!64 &2740929196003926758
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3155,7 +3220,7 @@ GameObject:
   - component: {fileID: 110443848075060457}
   - component: {fileID: 7088304792018242271}
   - component: {fileID: 1556813666139052788}
-  - component: {fileID: 929963588368956672}
+  - component: {fileID: 6944184513378929181}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -3173,6 +3238,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: -0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 38
@@ -3196,6 +3262,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3226,7 +3293,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &929963588368956672
+--- !u!64 &6944184513378929181
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3251,7 +3318,7 @@ GameObject:
   - component: {fileID: 7345399369488599075}
   - component: {fileID: 8414623011546126113}
   - component: {fileID: 8354488543507477848}
-  - component: {fileID: 5658838971437335866}
+  - component: {fileID: 2519179803037722578}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -3269,6 +3336,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.8314696, w: 0.55557024}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 33
@@ -3292,6 +3360,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3322,7 +3391,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5658838971437335866
+--- !u!64 &2519179803037722578
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3347,7 +3416,7 @@ GameObject:
   - component: {fileID: 6410005153257381209}
   - component: {fileID: 2251867127341790093}
   - component: {fileID: 421428331890238968}
-  - component: {fileID: 1055146045199518180}
+  - component: {fileID: 325187382084428105}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -3365,6 +3434,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.38268346, w: 0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 2
@@ -3388,6 +3458,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3418,7 +3489,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1055146045199518180
+--- !u!64 &325187382084428105
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3443,7 +3514,7 @@ GameObject:
   - component: {fileID: 3140897571303423161}
   - component: {fileID: 3038677639286116392}
   - component: {fileID: 8544976638896404000}
-  - component: {fileID: 6158844120481663882}
+  - component: {fileID: 8987191553344187697}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -3461,6 +3532,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.5555702, w: -0.83146966}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 39
@@ -3484,6 +3556,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3514,7 +3587,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6158844120481663882
+--- !u!64 &8987191553344187697
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3539,7 +3612,7 @@ GameObject:
   - component: {fileID: 661161201826781222}
   - component: {fileID: 7708540933569099280}
   - component: {fileID: 2107230819326289467}
-  - component: {fileID: 307210630275039695}
+  - component: {fileID: 7054284849793926778}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -3557,6 +3630,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: -0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 24
@@ -3580,6 +3654,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3610,7 +3685,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &307210630275039695
+--- !u!64 &7054284849793926778
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3635,7 +3710,7 @@ GameObject:
   - component: {fileID: 441844255132698198}
   - component: {fileID: 2347204768701621742}
   - component: {fileID: 5353612151212627792}
-  - component: {fileID: 7602151842794752771}
+  - component: {fileID: 444578107214021195}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -3653,6 +3728,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 4
@@ -3676,6 +3752,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3706,7 +3783,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &7602151842794752771
+--- !u!64 &444578107214021195
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3731,7 +3808,7 @@ GameObject:
   - component: {fileID: 1863190131870870014}
   - component: {fileID: 4568951037519874630}
   - component: {fileID: 6174724728770017528}
-  - component: {fileID: 8537305768935466155}
+  - component: {fileID: 1983151037212360982}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -3749,6 +3826,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 32
@@ -3772,6 +3850,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3802,7 +3881,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &8537305768935466155
+--- !u!64 &1983151037212360982
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3827,7 +3906,7 @@ GameObject:
   - component: {fileID: 3777512096581489425}
   - component: {fileID: 3877972809963814784}
   - component: {fileID: 7597295997516519816}
-  - component: {fileID: 5368926923332674594}
+  - component: {fileID: 3619055435681612762}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -3845,6 +3924,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.5555702, w: -0.83146966}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 11
@@ -3868,6 +3948,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3898,7 +3979,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5368926923332674594
+--- !u!64 &3619055435681612762
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3923,7 +4004,7 @@ GameObject:
   - component: {fileID: 5120090533015991025}
   - component: {fileID: 52604722271509541}
   - component: {fileID: 1883604543263738448}
-  - component: {fileID: 1251577604219135564}
+  - component: {fileID: 5643639861361697966}
   m_Layer: 0
   m_Name: Maze_Part_3
   m_TagString: Untagged
@@ -3941,6 +4022,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.38268346, w: 0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 30
@@ -3964,6 +4046,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -3994,7 +4077,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1251577604219135564
+--- !u!64 &5643639861361697966
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4019,7 +4102,7 @@ GameObject:
   - component: {fileID: 8794060303872124811}
   - component: {fileID: 7727158280562063497}
   - component: {fileID: 7785533667761396464}
-  - component: {fileID: 5869002441168431762}
+  - component: {fileID: 7815528569383633686}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -4037,6 +4120,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.8314696, w: 0.55557024}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 5
@@ -4060,6 +4144,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -4090,7 +4175,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &5869002441168431762
+--- !u!64 &7815528569383633686
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4115,7 +4200,7 @@ GameObject:
   - component: {fileID: 2194025527624485697}
   - component: {fileID: 9053476775029646711}
   - component: {fileID: 747658320951080284}
-  - component: {fileID: 1377321361752527528}
+  - component: {fileID: 6515575179692849560}
   m_Layer: 0
   m_Name: Maze_Part_1
   m_TagString: Untagged
@@ -4133,6 +4218,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: -0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 10
@@ -4156,6 +4242,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -4186,7 +4273,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1377321361752527528
+--- !u!64 &6515575179692849560
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4211,7 +4298,7 @@ GameObject:
   - component: {fileID: 5740609248518327870}
   - component: {fileID: 585020670619132138}
   - component: {fileID: 1335144520707208863}
-  - component: {fileID: 1872078762499316355}
+  - component: {fileID: 958121170111320845}
   m_Layer: 0
   m_Name: Maze_Part_2
   m_TagString: Untagged
@@ -4229,6 +4316,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.38268346, w: 0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2209415824583599426}
   m_RootOrder: 16
@@ -4252,6 +4340,7 @@ MeshRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -4282,7 +4371,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &1872078762499316355
+--- !u!64 &958121170111320845
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
