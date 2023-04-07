@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class MazeController : GameActor<GameManager>
 {
-    // SO LARA ALINACAK
     private Vector3 firstMousePositon;
     private float currentMagnitude;
 
@@ -14,9 +13,16 @@ public class MazeController : GameActor<GameManager>
     private int screenWidth;
     private Quaternion firstRotation;
     private Quaternion targetRotation;
-    [SerializeField] private float fullSwipeAngle = 180;
-    [SerializeField] private float rotationSpeed;
-    [SerializeField] private float thresholdScreenDivider;
+    private float fullSwipeAngle;
+    private float rotationSpeed;
+    private float thresholdScreenDivider;
+
+    public override void ActorAwake()
+    {
+        fullSwipeAngle = DataManager.Instance.GameConfiguration.FullSwipeAngle;
+        rotationSpeed = DataManager.Instance.GameConfiguration.RotationSpeed;
+        thresholdScreenDivider = DataManager.Instance.GameConfiguration.ThresholdScreenDivider;
+    }
 
     public override void ActorStart()
     {

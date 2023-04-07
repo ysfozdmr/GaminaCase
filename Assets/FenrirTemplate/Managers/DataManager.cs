@@ -10,5 +10,7 @@ namespace Fenrir.Managers
     {
         public FXData fXData;
         public LevelDataCapsule levelCapsule;
+        public AdManager adManager;
+        public GameConfiguration GameConfiguration;
     }
 }

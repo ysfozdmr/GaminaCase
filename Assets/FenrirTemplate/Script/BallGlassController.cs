@@ -11,6 +11,7 @@ public class BallGlassController : GameActor<GameManager>
     private int ballAmount;
     [SerializeField] private Pool _pool;
     private int ballCounter;
+    //[SerializeField] private AdManager _adManager;
 
     public override void ActorStart()
     {
@@ -18,6 +19,12 @@ public class BallGlassController : GameActor<GameManager>
             .BallCount;
     }
 
+    IEnumerator LevelEnd()
+    {
+        yield return new WaitForSeconds(2f);
+        GameManager.Instance.FinishLevel(true);
+        GameManager.Instance.NextLevel();
+    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -28,9 +35,8 @@ public class BallGlassController : GameActor<GameManager>
             _pool.BackToThePool(other.gameObject);
             if (ballCounter == ballAmount)
             {
-                //admob inters atılacak
-                GameManager.Instance.FinishLevel(true);
-                GameManager.Instance.NextLevel();
+                DataManager.Instance.adManager.ShowInterstitial();
+                StartCoroutine(LevelEnd());
             }
         }
     }
