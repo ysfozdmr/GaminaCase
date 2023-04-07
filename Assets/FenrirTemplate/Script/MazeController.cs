@@ -38,13 +38,13 @@ public class MazeController : GameActor<GameManager>
             {
                 targetRotation =
                     firstRotation * Quaternion.Euler(0, 0, currentMagnitude * fullSwipeAngle / screenWidth);
+                transform.rotation =
+                    Quaternion.Lerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
             }
         }
         else if (Input.GetMouseButtonUp(0))
         {
             targetRotation = transform.rotation;
         }
-
-        transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
     }
 }

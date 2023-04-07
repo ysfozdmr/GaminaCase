@@ -15,7 +15,7 @@ public class CustomLevelActor : LevelActor
     {
         int ballAmount = DataManager.Instance.levelCapsule.Levels[GameManager.Instance.runtime.currentLevelIndex]
             .BallCount;
-        for (int i = 0; i <= ballAmount; i++)
+        for (int i = 0; i < ballAmount; i++)
         {
             ball = _pool.SpawnBallFromPool(SpawnTransform.position, Quaternion.identity);
             ball.GetComponent<MeshRenderer>().material.color = Random.ColorHSV();
