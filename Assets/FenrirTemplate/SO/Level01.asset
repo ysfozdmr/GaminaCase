@@ -13,3 +13,4 @@ MonoBehaviour:
   m_Name: Level01
   m_EditorClassIdentifier: 
   LevelPrefab: {fileID: 8370907381173252273, guid: 9a9f2ade3f4fa3042a47f90bc237613f, type: 3}
+  BallCount: 15
