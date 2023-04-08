@@ -8,9 +8,9 @@ namespace Fenrir.Managers
 {
     public class DataManager : EventBehaviour<DataManager>
     {
-        public FXData fXData;
         public LevelDataCapsule levelCapsule;
         public AdManager adManager;
         public GameConfiguration GameConfiguration;
+        public SoundManager SoundManager;
     }
 }

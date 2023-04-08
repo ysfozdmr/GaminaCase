@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Game Configuration
   m_EditorClassIdentifier: 
   FullSwipeAngle: 180
-  RotationSpeed: 5
+  RotationSpeed: 2
   ThresholdScreenDivider: 40

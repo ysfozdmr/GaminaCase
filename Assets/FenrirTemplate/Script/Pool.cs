@@ -1,8 +1,10 @@
 using System.Collections.Generic;
+using Fenrir.Actors;
+using Fenrir.Managers;
 using UnityEngine;
 
 
-public class Pool : MonoBehaviour
+public class Pool : GameActor<GameManager>
 {
      #region BallPool
     Stack<GameObject> balls = new Stack<GameObject>();

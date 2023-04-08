@@ -59,8 +59,13 @@ namespace Fenrir.Managers
             if (status)
             {
                 runtime.currentLevelIndex++;
+                if (runtime.currentLevelIndex >= DataManager.Instance.levelCapsule.Levels.Count)
+                {
+                    runtime.currentLevelIndex = 0;
+                }
                 PlayerPrefs.SetInt("level", runtime.currentLevelIndex);
             }
+            
         }
         public void NextLevel()
         {
