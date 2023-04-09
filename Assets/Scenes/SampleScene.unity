@@ -537,8 +537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caeae88cb74c52d49ae77b1ddaf25efb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  iosInterstitialID: 
-  androidInterstititialID: ca-app-pub-3940256099942544/4411468910
+  appID: ca-app-pub-3658161780301444/4799205346
 --- !u!4 &1359421971
 Transform:
   m_ObjectHideFlags: 0
